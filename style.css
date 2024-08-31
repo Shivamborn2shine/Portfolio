@@ -196,20 +196,20 @@ header {
   }
 }
 
-.progress-line .html {
+.progress-line .python {
   width: 80%;
 }
-.progress-line .css {
-  width: 70%;
+.progress-line .videoediting {
+  width: 85%;
 }
-.progress-line .bootstrap {
-  width: 50%;
+.progress-line .graphicdesigning {
+  width: 90%;
 }
-.progress-line .javascript {
-  width: 50%;
+.progress-line .chatgpt {
+  width: 75%;
 }
 .progress-line .c {
-  width: 50%;
+  width: 20%;
 }
 
 .bar .progress-line span::before {
@@ -238,16 +238,16 @@ header {
   border-radius: 3px;
 }
 
-.progress-line .html::after {
+.progress-line .python::after {
   content: "80%";
 }
-.progress-line .css::after {
+.progress-line .videoediting::after {
   content: "70%";
 }
-.progress-line .bootstrap::after {
+.progress-line .graphicdesigning::after {
   content: "50%";
 }
-.progress-line .javascript::after {
+.progress-line .chatgpt::after {
   content: "50%";
 }
 .progress-line .c::after {
